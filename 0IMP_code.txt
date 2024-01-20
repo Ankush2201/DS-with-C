@@ -1,0 +1,22 @@
+1.linked list  
+2. doubly linked 
+3. circulary linked  list 
+4. polynomial addition
+5. stack 
+6. stack linked 
+7. balanced parantheis 
+8. infix to postfix 
+9. infix to prefix 
+10. evaluation of prefix and postfix 
+11. Que - circulary , priority 
+ ( deQue)
+12 BST  d0ne
+13. bfs 
+14. dfs 
+15. topological sort 
+16 . bubble sort 
+17. insertion sort / selction sort 
+18 merge sort 
+19 Quick sort 
+20 . binary search 
+21 . linear search 
